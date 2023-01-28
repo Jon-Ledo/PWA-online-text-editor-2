@@ -3,7 +3,18 @@
 [live Site](https://pwa-text-editor-2.herokuapp.com/)
 
 ## Description
-Given a pre-existing text editor app, the code in this application aims to make it into a PWA, allowing a user to download to their desktop and having a functional app when not connected to the internet. Suggested uses would be to store some helpful code snippets
+Given a pre-existing text editor app, the code in this application aims to make it into a PWA, allowing a user to download to their desktop and having a functional app when not connected to the internet. Suggested uses would be to store some helpful code snippets.
+
+Benefits of making an app into a PWA (Progressive Web App):
+1. Availability in the offline mode
+2. Mobile-like behavior
+3. Smooth installation directly on a users device
+4. No app store submission
+5. Use of hardware features
+
+Learn more about PWA here:
+- [link 1](https://mobitouch.net/blog/5-key-benefits-of-progressive-web-apps-pwa/)
+- [link 2](https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/)
 
 ## Table of Contents
 
