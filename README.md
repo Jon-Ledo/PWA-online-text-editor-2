@@ -15,7 +15,7 @@ Given a pre-existing text editor app, the code in this application aims to make 
 
 ## Preview
 
-![preview](./Assets/jate.jpg)
+![preview](./Assets/jate.JPG)
 
 ## Packages
 
